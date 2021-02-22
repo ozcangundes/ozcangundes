@@ -6,12 +6,19 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Natural Language Processing**, specifically **Text Summarization and Text Classification**
+
 - 🌱 I’m currently learning **MLOps, GANs, Tensorflow**
+
 - 💬 Ask me about **PyTorch, Data Science, NLP**
+
 - 📫 How to reach me **ozcangundes@gmail.com**
+
 - 📝 Some of my articles can be found on [https://medium.com/@ozcangundes](https://medium.com/@ozcangundes)
+
 - 🎥 I give live workshops for university student clubs mostly about **NLP**
+
 - :computer: More than 30+ MOOCs about Data Science, Python and NLP were completed
+
 - ⭐ Self-driven, self-motivated geek
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozcangundes&show_icons=true" alt="ozcangundes" /></p>
