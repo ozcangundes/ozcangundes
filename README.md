@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozcangundes&color=orange&style=plastic" alt="ozcangundes" /> </p>
 
 
-- 🔭 I’m currently working on **Natural Language Processing**, specifically **Text Summarization and Text Classification**
+- 🔭 I’m currently working on **Natural Language Processing**, specifically **Question&Answering, Text Summarization and Text Classification**
 
-- 🌱 I’m currently learning **MLOps, GANs, Tensorflow**
+- 🌱 I’m currently learning **MLOps, GANs, Tensorflow and Question Generation**
 
 - 💬 Ask me about **PyTorch, Data Science, NLP**
 
